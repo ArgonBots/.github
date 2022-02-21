@@ -1,3 +1,5 @@
+![We Are ArgonBots - Banner](https://github.com/ArgonBots/.github/blob/main/public/images/banner.jpeg)
+
 ## ArgonBots
 Our mission at ArgonBots is to make people's lives easier by using our knowledge of technology.
 
