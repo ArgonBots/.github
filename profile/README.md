@@ -5,6 +5,6 @@ Our mission at ArgonBots is to make people's lives easier by using our knowledge
 
 ----
 
-Website: [argonbots.com](https://argonbots.com)
-Email: [argonbots@gmail.com](mailto:argonbots@gmail.com)
-Twitter: [@ArgonBots](https://twitter.com/ArgonBots)
+* Website: [argonbots.com](https://argonbots.com)
+* Email: [argonbots@gmail.com](mailto:argonbots@gmail.com)
+* Twitter: [@ArgonBots](https://twitter.com/ArgonBots)
