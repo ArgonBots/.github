@@ -1,4 +1,4 @@
-# ArgonBots
+## ArgonBots
 Our mission at ArgonBots is to make people's lives easier by using our knowledge of technology.
 
 ----
